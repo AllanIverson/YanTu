@@ -1,0 +1,7 @@
+package com.example.yantu;
+
+import androidx.lifecycle.ViewModel;
+
+public class Main1ViewModel extends ViewModel {
+    // TODO: Implement the ViewModel
+}
